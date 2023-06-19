@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.94cef0ef.chunk.css",
-    "main.js": "./static/js/main.ee1dee31.chunk.js",
-    "main.js.map": "./static/js/main.ee1dee31.chunk.js.map",
+    "main.css": "./static/css/main.62e94024.chunk.css",
+    "main.js": "./static/js/main.8a07b30a.chunk.js",
+    "main.js.map": "./static/js/main.8a07b30a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.f2865282.chunk.js": "./static/js/2.f2865282.chunk.js",
-    "static/js/2.f2865282.chunk.js.map": "./static/js/2.f2865282.chunk.js.map",
+    "static/js/2.9e1dbbb5.chunk.js": "./static/js/2.9e1dbbb5.chunk.js",
+    "static/js/2.9e1dbbb5.chunk.js.map": "./static/js/2.9e1dbbb5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.caf56dfa26251244e7e1c59622891811.js": "./precache-manifest.caf56dfa26251244e7e1c59622891811.js",
+    "precache-manifest.d42db8bf84526b01afd1e4b199bfee44.js": "./precache-manifest.d42db8bf84526b01afd1e4b199bfee44.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.94cef0ef.chunk.css.map": "./static/css/main.94cef0ef.chunk.css.map",
+    "static/css/main.62e94024.chunk.css.map": "./static/css/main.62e94024.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
+    "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
@@ -53,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.f2865282.chunk.js",
-    "static/css/main.94cef0ef.chunk.css",
-    "static/js/main.ee1dee31.chunk.js"
+    "static/js/2.9e1dbbb5.chunk.js",
+    "static/css/main.62e94024.chunk.css",
+    "static/js/main.8a07b30a.chunk.js"
   ]
 }
