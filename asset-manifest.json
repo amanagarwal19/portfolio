@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.62e94024.chunk.css",
-    "main.js": "./static/js/main.8a07b30a.chunk.js",
-    "main.js.map": "./static/js/main.8a07b30a.chunk.js.map",
+    "main.css": "./static/css/main.f8db038f.chunk.css",
+    "main.js": "./static/js/main.30e5381d.chunk.js",
+    "main.js.map": "./static/js/main.30e5381d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.9e1dbbb5.chunk.js": "./static/js/2.9e1dbbb5.chunk.js",
-    "static/js/2.9e1dbbb5.chunk.js.map": "./static/js/2.9e1dbbb5.chunk.js.map",
+    "static/js/2.99770161.chunk.js": "./static/js/2.99770161.chunk.js",
+    "static/js/2.99770161.chunk.js.map": "./static/js/2.99770161.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d42db8bf84526b01afd1e4b199bfee44.js": "./precache-manifest.d42db8bf84526b01afd1e4b199bfee44.js",
+    "precache-manifest.7114c25baa01bea95bfe99c9736baf33.js": "./precache-manifest.7114c25baa01bea95bfe99c9736baf33.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.62e94024.chunk.css.map": "./static/css/main.62e94024.chunk.css.map",
+    "static/css/main.f8db038f.chunk.css.map": "./static/css/main.f8db038f.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
+    "static/media/ZS_Logo.png": "./static/media/ZS_Logo.331f7e8f.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
+    "static/media/aman.png": "./static/media/aman.97620719.png",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
@@ -23,6 +25,7 @@
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
+    "static/media/deloitte_logo.png": "./static/media/deloitte_logo.e2b9bc9b.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "./static/media/education.3bab7a9d.svg",
@@ -39,6 +42,7 @@
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "./static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
+    "static/media/leetcode-color.svg": "./static/media/leetcode-color.9683a40f.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
@@ -55,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.9e1dbbb5.chunk.js",
-    "static/css/main.62e94024.chunk.css",
-    "static/js/main.8a07b30a.chunk.js"
+    "static/js/2.99770161.chunk.js",
+    "static/css/main.f8db038f.chunk.css",
+    "static/js/main.30e5381d.chunk.js"
   ]
 }
