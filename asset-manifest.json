@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.44c96269.chunk.css",
-    "main.js": "./static/js/main.d717f309.chunk.js",
-    "main.js.map": "./static/js/main.d717f309.chunk.js.map",
+    "main.css": "./static/css/main.75e8655e.chunk.css",
+    "main.js": "./static/js/main.144dfb97.chunk.js",
+    "main.js.map": "./static/js/main.144dfb97.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.38941ac8.chunk.js": "./static/js/2.38941ac8.chunk.js",
-    "static/js/2.38941ac8.chunk.js.map": "./static/js/2.38941ac8.chunk.js.map",
+    "static/js/2.8786acea.chunk.js": "./static/js/2.8786acea.chunk.js",
+    "static/js/2.8786acea.chunk.js.map": "./static/js/2.8786acea.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.250a6630d8c3de2f1ccd80c04225bcdc.js": "./precache-manifest.250a6630d8c3de2f1ccd80c04225bcdc.js",
+    "precache-manifest.7dc61d5df9f7475ee261d32c7db110e5.js": "./precache-manifest.7dc61d5df9f7475ee261d32c7db110e5.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.44c96269.chunk.css.map": "./static/css/main.44c96269.chunk.css.map",
+    "static/css/main.75e8655e.chunk.css.map": "./static/css/main.75e8655e.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
@@ -60,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.38941ac8.chunk.js",
-    "static/css/main.44c96269.chunk.css",
-    "static/js/main.d717f309.chunk.js"
+    "static/js/2.8786acea.chunk.js",
+    "static/css/main.75e8655e.chunk.css",
+    "static/js/main.144dfb97.chunk.js"
   ]
 }
