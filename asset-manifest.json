@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.75e8655e.chunk.css",
+    "main.css": "./static/css/main.fd569980.chunk.css",
     "main.js": "./static/js/main.144dfb97.chunk.js",
     "main.js.map": "./static/js/main.144dfb97.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
@@ -8,9 +8,9 @@
     "static/js/2.8786acea.chunk.js": "./static/js/2.8786acea.chunk.js",
     "static/js/2.8786acea.chunk.js.map": "./static/js/2.8786acea.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.7dc61d5df9f7475ee261d32c7db110e5.js": "./precache-manifest.7dc61d5df9f7475ee261d32c7db110e5.js",
+    "precache-manifest.8d2d49a5828c5e5ebbda5de73eb125af.js": "./precache-manifest.8d2d49a5828c5e5ebbda5de73eb125af.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.75e8655e.chunk.css.map": "./static/css/main.75e8655e.chunk.css.map",
+    "static/css/main.fd569980.chunk.css.map": "./static/css/main.fd569980.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.8786acea.chunk.js",
-    "static/css/main.75e8655e.chunk.css",
+    "static/css/main.fd569980.chunk.css",
     "static/js/main.144dfb97.chunk.js"
   ]
 }
