@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.fd569980.chunk.css",
-    "main.js": "./static/js/main.144dfb97.chunk.js",
-    "main.js.map": "./static/js/main.144dfb97.chunk.js.map",
+    "main.css": "./static/css/main.6ef0b95f.chunk.css",
+    "main.js": "./static/js/main.d8c29abd.chunk.js",
+    "main.js.map": "./static/js/main.d8c29abd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.8786acea.chunk.js": "./static/js/2.8786acea.chunk.js",
-    "static/js/2.8786acea.chunk.js.map": "./static/js/2.8786acea.chunk.js.map",
+    "static/js/2.7d7c19eb.chunk.js": "./static/js/2.7d7c19eb.chunk.js",
+    "static/js/2.7d7c19eb.chunk.js.map": "./static/js/2.7d7c19eb.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8d2d49a5828c5e5ebbda5de73eb125af.js": "./precache-manifest.8d2d49a5828c5e5ebbda5de73eb125af.js",
+    "precache-manifest.1733ae9b9695203f27212470ebc6678d.js": "./precache-manifest.1733ae9b9695203f27212470ebc6678d.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.fd569980.chunk.css.map": "./static/css/main.fd569980.chunk.css.map",
-    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/css/main.6ef0b95f.chunk.css.map": "./static/css/main.6ef0b95f.chunk.css.map",
+    "static/media/index.css": "./static/media/Sacramento-Regular.0c8e69ac.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
     "static/media/ZS_Logo.png": "./static/media/ZS_Logo.331f7e8f.png",
@@ -23,6 +23,7 @@
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
+    "static/media/contact.svg": "./static/media/contact.32e5ebd3.svg",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
@@ -50,18 +51,21 @@
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
+    "static/media/programming.svg": "./static/media/programming.7917b685.svg",
+    "static/media/projects.svg": "./static/media/projects.9b7be35a.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
+    "static/media/work-ex.svg": "./static/media/work-ex.9be1e516.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.8786acea.chunk.js",
-    "static/css/main.fd569980.chunk.css",
-    "static/js/main.144dfb97.chunk.js"
+    "static/js/2.7d7c19eb.chunk.js",
+    "static/css/main.6ef0b95f.chunk.css",
+    "static/js/main.d8c29abd.chunk.js"
   ]
 }
