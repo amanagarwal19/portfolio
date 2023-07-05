@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.6ad9d943.chunk.css",
-    "main.js": "./static/js/main.fdcf447e.chunk.js",
-    "main.js.map": "./static/js/main.fdcf447e.chunk.js.map",
+    "main.css": "./static/css/main.56c789e3.chunk.css",
+    "main.js": "./static/js/main.c31e602e.chunk.js",
+    "main.js.map": "./static/js/main.c31e602e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
     "static/js/2.bca5e974.chunk.js": "./static/js/2.bca5e974.chunk.js",
     "static/js/2.bca5e974.chunk.js.map": "./static/js/2.bca5e974.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.0523495c2f227aae1ca858e9dbc55579.js": "./precache-manifest.0523495c2f227aae1ca858e9dbc55579.js",
+    "precache-manifest.948cf0a45ca311571430bad5ef175917.js": "./precache-manifest.948cf0a45ca311571430bad5ef175917.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.6ad9d943.chunk.css.map": "./static/css/main.6ad9d943.chunk.css.map",
+    "static/css/main.56c789e3.chunk.css.map": "./static/css/main.56c789e3.chunk.css.map",
     "static/media/index.css": "./static/media/Sacramento-Regular.0c8e69ac.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
@@ -66,7 +66,7 @@
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.bca5e974.chunk.js",
-    "static/css/main.6ad9d943.chunk.css",
-    "static/js/main.fdcf447e.chunk.js"
+    "static/css/main.56c789e3.chunk.css",
+    "static/js/main.c31e602e.chunk.js"
   ]
 }
