@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.56c789e3.chunk.css",
-    "main.js": "./static/js/main.c31e602e.chunk.js",
-    "main.js.map": "./static/js/main.c31e602e.chunk.js.map",
+    "main.css": "./static/css/main.ab054ad2.chunk.css",
+    "main.js": "./static/js/main.1a676627.chunk.js",
+    "main.js.map": "./static/js/main.1a676627.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.bca5e974.chunk.js": "./static/js/2.bca5e974.chunk.js",
-    "static/js/2.bca5e974.chunk.js.map": "./static/js/2.bca5e974.chunk.js.map",
+    "static/js/2.72b08126.chunk.js": "./static/js/2.72b08126.chunk.js",
+    "static/js/2.72b08126.chunk.js.map": "./static/js/2.72b08126.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.948cf0a45ca311571430bad5ef175917.js": "./precache-manifest.948cf0a45ca311571430bad5ef175917.js",
+    "precache-manifest.4951ee6f75d82722c2b0fb4122c92df0.js": "./precache-manifest.4951ee6f75d82722c2b0fb4122c92df0.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.56c789e3.chunk.css.map": "./static/css/main.56c789e3.chunk.css.map",
+    "static/css/main.ab054ad2.chunk.css.map": "./static/css/main.ab054ad2.chunk.css.map",
     "static/media/index.css": "./static/media/Sacramento-Regular.0c8e69ac.ttf",
     "static/media/KIIT-logo.png": "./static/media/KIIT-logo.85db1200.png",
     "static/media/University-of-Florida-Seal-Logo.png": "./static/media/University-of-Florida-Seal-Logo.1394745f.png",
@@ -36,6 +36,8 @@
     "static/media/feelingProud.svg": "./static/media/feelingProud.2936ce95.svg",
     "static/media/full-stack.svg": "./static/media/full-stack.5981030a.svg",
     "static/media/fullstack.svg": "./static/media/fullstack.fce60807.svg",
+    "static/media/gator-taxi-2.jpg": "./static/media/gator-taxi-2.af79b35a.jpg",
+    "static/media/gator-taxi.png": "./static/media/gator-taxi.7c296bf1.png",
     "static/media/gcp_logo.png": "./static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
@@ -65,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.bca5e974.chunk.js",
-    "static/css/main.56c789e3.chunk.css",
-    "static/js/main.c31e602e.chunk.js"
+    "static/js/2.72b08126.chunk.js",
+    "static/css/main.ab054ad2.chunk.css",
+    "static/js/main.1a676627.chunk.js"
   ]
 }
